@@ -1,4 +1,4 @@
-# screeler
+# MovieRecommender
 
 This is a sample Flutter application, that saves user settings on Firebase and gets movie recommendations according to which genres the user chooses.
 
